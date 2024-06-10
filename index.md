@@ -1,6 +1,12 @@
 # Completando etapas do education git
 ## Completo 
 
+- [X] Step 1
+- [X] Step 2
+- [X] Step 3
+- [X] Step 4
+- [ ] Step 5
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 <pre>
